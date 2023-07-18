@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpaperaccess.com/full/2825810.gif)](https://cutewallpaper.org/21/8-bit-gif-background/view-page-21.html)
+[![MasterHead](https://wallpaperaccess.com/full/2825810.gif)]
 <h1 align="center">Hi 👋, I'm Michael Nam</h1>
 <h3 align="center">Tester/ QA/ UI/UX for website and game company</h3>
 <img align ="right" alt=" Technology" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47b7c8zu2bob3llvnhu31vm9za1ttl0ih8d674olvn&ep=v1_gifs_related&rid=giphy.gif&ct=g" >
