@@ -1,5 +1,9 @@
 ![MasterHead](https://wallpaperaccess.com/full/2825810.gif)
-<h1 align="center">Hi 👋, I'm Michael Nam</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=2000&size=35&color=555555&width=435&lines=Hi+There!+👋;I'm+Michael+Nam" alt="Typing SVG" /></a>
+</h1>
 <h3 align="center"> Is in the process of becoming a Tester professional ! </h3>
 <img align ="right" alt=" Technology" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47b7c8zu2bob3llvnhu31vm9za1ttl0ih8d674olvn&ep=v1_gifs_related&rid=giphy.gif&ct=g" >
 
